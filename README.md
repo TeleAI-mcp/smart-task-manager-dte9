@@ -1,2 +1,3 @@
-# smart-task-manager-dte9
+# Smart Task Manager Dte9
+
 A repository to test GitHub automation for issue management.
